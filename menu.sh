@@ -394,7 +394,7 @@ show_menu() {
     echo -e "${YELLOW}=== 安装管理 ===${RESET}"
     echo -e "${GREEN}1.${RESET} Snell 安装管理"
     echo -e "${GREEN}2.${RESET} SS-2022 安装管理"
-    echo -e "${GREEN}2.${RESET} VLESS Reality 安装管理"
+    echo -e "${GREEN}3.${RESET} VLESS Reality 安装管理"
     echo -e "${GREEN}4.${RESET} ShadowTLS 安装管理"
     
     echo -e "\n${YELLOW}=== 卸载功能 ===${RESET}"
